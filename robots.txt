@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alpha8332.github.io/dongchan-portfolio-public/sitemap.xml
